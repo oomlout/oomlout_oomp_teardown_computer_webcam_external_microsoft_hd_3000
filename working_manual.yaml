@@ -1,0 +1,41 @@
+id: oomlout_oomp_teardown_computer_webcam_external_microsoft_hd_3000
+name: "Oomp Teardown Computer Webcam External Microsoft HD 3000"
+description: "oomlout_oomp_teardown_computer_webcam_external_microsoft_hd_3000"
+readme_manual: |
+  ## notes
+  * screws are m1.4
+disassembly:
+- index: 1
+  title: "assembled"
+  description: "before starting"
+- index: 2
+  title: "remove screws"
+  description: "remove the two phillips 0 screws from the back of the camera. the holder needs to be bent to the side to make them visible"
+- index: 3
+  title: "remove front"
+  description: "remove the front"
+- index: 4
+  title: "remove speaker from front cover"
+  description: "remove the speaker from the front cover"
+- index: 5
+  title: "remove pcb screws"
+  description: "remove the two phillips 0 screws from the pcb"
+- index: 6
+  title: "detail of wires"
+  description: "detail of wires. wire colour also on top sikscreen"
+- index: 7
+  title: "remove the cable"
+  description: "remove the cable, either desolder or the back plastic housing"
+- index: 8
+  title: "reattach the cable"
+  description: "reattach the cable"
+
+
+
+
+
+
+
+
+
+
